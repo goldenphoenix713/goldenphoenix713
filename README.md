@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @goldenphoenix713
+- 👀 I’m interested in Python projects, scientific computing, data science
+- 🌱 I’m currently learning creating symbolic libraries
+- 💞️ I’m looking to collaborate on a project I'm working on.
+- 📫 How to reach me: eduardo.j.ruiz@gmail.com
